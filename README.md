@@ -1,4 +1,4 @@
-# GoSocial!
+# Go Social!
 The source files and more of Go Social!
 
 ## About Go Social!
