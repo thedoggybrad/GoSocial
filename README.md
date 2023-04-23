@@ -3,17 +3,23 @@ This repository contains the source files, texts and more about Go Social!
 
 ## Source Files (GitHub)
 Directory: /source
+<br>
 Version: April 23, 2023
+<br>
 Status: Completely Uploaded
 
 ## Texts (GitHub)
 Directory: /texts
+<br>
 Version: April 23, 2023
+<br>
 Status: Completely Uploaded
 
 ## Uptime Monitoring (Freshping)
 URL: https://statuspage.freshping.io/66143-GoSocialStatusMonitoring
+<br]
 Status: Completely Created
+<br>
 Monitoring Countries: 9 Countries
 
 ### About Go Social!
