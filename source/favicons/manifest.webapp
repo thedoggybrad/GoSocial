@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+    "name": "Go Social!",
+    "description": "Ossn App",
+    "icons": {
+        "60": "https://gosocial.x10.bz/favicons/firefox_app_60x60.png?ver=1680756201",
+        "128": "https://gosocial.x10.bz/favicons/firefox_app_128x128.png?ver=1680756201",
+        "512": "https://gosocial.x10.bz/favicons/firefox_app_512x512.png?ver=1680756201"
+    },
+    "developer": {
+        "name": "Opensource-Socialnetwork",
+        "url": "https://www.opensource-socialnetwork.org"
+    }
+}

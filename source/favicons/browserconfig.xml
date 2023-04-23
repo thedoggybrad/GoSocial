@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="https://gosocial.x10.bz/favicons/mstile-150x150.png?ver=1680756201"/>
+            <square310x310logo src="https://gosocial.x10.bz/favicons/mstile-310x310.png?ver=1680756201"/>
+            <TileColor>#2b5797</TileColor>
+        </tile>
+    </msapplication>
+</browserconfig>

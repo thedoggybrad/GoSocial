@@ -1,0 +1,26 @@
+{
+    "name": "Go Social!",
+    "icons": [
+        {
+            "src": "https://gosocial.x10.bz/favicons/android-chrome-192x192.png?ver=1680756201",
+            "sizes": "192x192",
+            "type": "image/png",
+			"purpose": "any maskable"
+        },
+        {
+            "src": "https://gosocial.x10.bz/favicons/android-chrome-512x512.png?ver=1680756201",
+            "sizes": "512x512",
+            "type": "image/png",
+			"purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "https://gosocial.x10.bz/",
+    "display": "standalone",
+    "orientation": "any",
+    "scope": "https://gosocial.x10.bz/",
+    "serviceworker": {
+        "src": "https://gosocial.x10.bz/favicon-sw.js"
+    }
+}
