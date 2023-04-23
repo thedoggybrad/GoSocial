@@ -32,6 +32,9 @@ URL: https://statuspage.freshping.io/66143-GoSocialStatusMonitoring
 Status: Completely Created
 <br>
 Monitoring Countries: 9 Countries
+<br>
+<br>
+Note: The website has been monitored acorss 9 countries, around the world. If the downtime is only experienced on 1 to 3 monitors then it is either a "Request Timeout" or either the monitoring server goes down temporarily. If all the monitors' status are down, then most likely Go Social! is down.
 
 ### About Go Social!
 Go Social! is a modern social media platform powered by the Open Source Social Network (OSSN). It is founded and became live on the public on April 3, 2023 (Monday). This platform aims to have an "open" social media platform.
