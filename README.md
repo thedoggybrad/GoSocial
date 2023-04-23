@@ -13,7 +13,8 @@ Status: Completely Uploaded
 
 ## Uptime Monitoring (Freshping)
 URL: https://statuspage.freshping.io/66143-GoSocialStatusMonitoring
-Status: Properly Setted-up
+Status: Completely Created
+Monitoring Countries: 9 Countries
 
 ### About Go Social!
 Go Social! is a modern social media platform powered by the Open Source Social Network (OSSN). It is founded and became live on the public on April 3, 2023 (Monday). This platform aims to have an "open" social media platform.
