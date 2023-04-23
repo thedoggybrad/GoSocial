@@ -4,7 +4,6 @@ This repository contains the source files, texts and more about Go Social!
 This is because Go Social is an open platform, meaning it must be transparent.
 <br>
 <br>
-<br>
 Official Links:
 <br>
 •Primary: https://gosocial.x10.bz/
