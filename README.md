@@ -19,7 +19,7 @@ Status: Completely Uploaded
 
 ## Uptime Monitoring (Freshping)
 URL: https://statuspage.freshping.io/66143-GoSocialStatusMonitoring
-<br]
+<br>
 Status: Completely Created
 <br>
 Monitoring Countries: 9 Countries
