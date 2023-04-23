@@ -1,5 +1,5 @@
 # Go Social!
-The source files and more of Go Social!
+This repository contains the source files, texts and more about Go Social!
 
 ## Source Files (GitHub)
 Directory: /source
