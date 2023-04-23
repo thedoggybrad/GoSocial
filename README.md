@@ -1,8 +1,9 @@
 # Go Social!
 The source files and more of Go Social!
 
-## Source File Status
-Version: April 23, 2023 (Github)
+## Source File Status (GitHub)
+Version: April 23, 2023
+Status: Completely Uploaded
 
 ## About Go Social!
 Go Social! is a modern social media platform powered by the Open Source Social Network (OSSN). It is founded and became live on the public on April 3, 2023 (Monday). This platform aims to have an "open" social media platform.
