@@ -1,4 +1,4 @@
-#System Specifications of Go Social!'s Infrastructure
+# System Specifications of Go Social!'s Infrastructure
 Lastly Updated: April 23, 2023 (Sunday)
 <br>
 <br>
