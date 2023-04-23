@@ -1,11 +1,17 @@
 # Go Social!
 The source files and more of Go Social!
 
-## Source File Status (GitHub)
+## Source Files (GitHub)
+Directory: /source
 Version: April 23, 2023
 Status: Completely Uploaded
 
-## About Go Social!
+## Texts (GitHub)
+Directory: /texts
+Version: April 23, 2023
+Status: Completely Uploaded
+
+### About Go Social!
 Go Social! is a modern social media platform powered by the Open Source Social Network (OSSN). It is founded and became live on the public on April 3, 2023 (Monday). This platform aims to have an "open" social media platform.
 
 Go Social! has its platform hosted on x10 Hosting's (Free hosting) infrastructure. While, its founder is living in the Philippines. It has all the features you need for a functional social media platform (Chats, Notifications, Games, Newsfeed, Photos, Arcade Games, Search and Groups).
