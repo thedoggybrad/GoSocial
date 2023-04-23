@@ -19,7 +19,7 @@ Version: April 23, 2023
 <br>
 Status: Completely Uploaded
 
-## Texts (GitHub)
+## Info Texts (GitHub)
 Directory: /texts
 <br>
 Version: April 23, 2023
