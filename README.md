@@ -1,7 +1,7 @@
 # Go Social!
 This repository contains the source files, texts and more about Go Social!
 <br>
-This is because Go Social is open, meaning it must be transparent.
+This is because Go Social is an open platform, meaning it must be transparent.
 
 ## Source Files (GitHub)
 Directory: /source
