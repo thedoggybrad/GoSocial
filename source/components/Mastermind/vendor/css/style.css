@@ -1,0 +1,195 @@
+.ossn-message-box .contents {
+	height: unset !important;
+}
+
+.mastermind-body {
+  background: #375f32;
+  font-family: 'Spectral SC', serif;
+  font-size: 80%;
+  min-height: 400px;
+}
+
+.mastermind-body button {
+  font-family: 'Spectral SC', serif;
+  color: black;
+  background-color: #efb1a6;
+  border: black;
+  font-size: inherit;
+  border-radius: 3px;
+}
+
+.mastermind-body canvas {
+  float: left;
+  margin: 10px;
+}
+
+.mastermind-body canvas:hover {
+  filter: brightness(65%);
+}
+
+.mastermind-body ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+
+.mastermind-container {
+  min-height: 50px;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: 1fr, 1fr, 1fr, 1fr, 1fr;
+  background-repeat: no-repeat;
+}
+
+
+.mastermind-directions {
+  cursor: default;
+  text-align: center;
+  margin-top:20px;
+}
+
+.mastermind-direction-span {
+	margin: 5px;
+}
+
+.mastermind-direction-button {
+	margin-left: -10px;
+	margin-right:-10px
+}
+
+
+#mastermind-game-box {
+  min-width: 360px;
+  background-image: url('../images/gameBoxImage.jpg');
+  background-position: 500px 170px;
+  border-radius: 25px;
+  margin: 20px;
+  padding: 10px;
+}
+
+
+.mastermind-color-choice-panel {
+	margin-bottom: 90px;
+}
+
+.mastermind-color-list {
+	margin: 0px;
+}
+
+.mastermind-invis_peg_list {
+  width: 30px;
+  height: 30px;
+  float: left;
+  margin: 15px 15px 15px 15px;
+}
+
+
+.mastermind-game_row {
+	padding: 0px;
+}
+
+.mastermind-game_row .empty {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  float: left;
+  margin: 15px 15px 15px 15px;
+  box-shadow: inset 15px 15px 30px rgba(0,0,0,.1);
+  background-image: url('../images/gameBoxImage.jpg');
+}
+
+.mastermind-game_row .peg_list {
+  border-radius: 5px;
+  border: solid black 1px;
+  width: 33px;
+  height: 33px;
+  float: left;
+  margin: 13px;
+  margin-top: 19px;
+}
+
+.mastermind-game_row .peg {
+  border: solid black 1px;
+  border-radius: 50%;
+  width: 7px;
+  height: 7px;
+  float: left;
+  margin: 4.1px;
+  background-image: url('../images/gameBoxImage.jpg');
+}
+
+.mastermind-game_row .ball {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  float: left;
+  margin: 15px 15px 15px 15px;
+  box-shadow: inset -15px -15px 30px rgba(0,0,0,.1);
+}
+
+
+.mastermind-modal {
+  display: none;
+  position: absolute;
+  text-align: center;
+  border-radius: 5px;
+  z-index: 1;
+  padding-top: 40px;
+  padding-left: 5px;
+  padding-right: 5px;
+  top: 10%;
+  overflow: auto;
+  background-color: white;
+  border:2px solid brown;
+  max-width: 340px;
+  max-height: 550px;
+}
+
+.mastermind-modal:hover {
+  cursor: default;
+}
+
+.mastermind-modal .modal-content p {
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+	margin: 10px;
+}
+
+.mastermind-modal .close {
+  position: absolute;
+  top: 5px;
+  right: 20px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.mastermind-modal-img {
+	max-width: 300px;
+}
+
+.mastermind-message-background {
+	 background-color: gainsboro;
+}
+
+.mastermind-message-content {
+	width: 100%;
+	margin: auto;
+	text-align:center;
+}
+
+.mastermind-message-icon {
+	font-size: 30px;
+}
+
+.mastermind-message-color-row {
+	display: flex;
+	justify-content: center;
+}
+
+.mastermind-message-color-dot {
+	height: 40px;
+	width: 40px;
+	border-radius: 40px;
+	border: solid grey 1px;
+	margin: 10px;
+}

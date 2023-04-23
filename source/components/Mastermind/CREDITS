@@ -1,0 +1,10 @@
+This Mastermind game was pair-programmed in vanilla Javascript, HTML5 and CSS3 by Johanna Fulghum and Giulia Lake.
+
+The source code is available at https://github.com/jfulghum/Vanilla-Mastermind
+
+Vanilla Mastermind is mobile responsive, displays animations when a user makes a completely incorrect guess,
+and features a test suite in Jasmine to ensure correct game logic and functionality.
+
+Special thanks to Mike Semko, John Dominguez, Patrick Fulghum and Alice Kong for their guidance and creative suggestions.
+Additional thank you to Charles Fulghum, tester extraordinaire.
+.
