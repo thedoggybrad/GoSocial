@@ -15,14 +15,14 @@ Official Links:
 ## Source Files (GitHub)
 Directory: /source
 <br>
-Version: April 23, 2023
+Version: April 23, 2023 (Latest)
 <br>
 Status: Completely Uploaded
 
 ## Info Texts (GitHub)
 Directory: /texts
 <br>
-Version: April 23, 2023
+Version: April 30, 2023 (Latest)
 <br>
 Status: Completely Uploaded
 
