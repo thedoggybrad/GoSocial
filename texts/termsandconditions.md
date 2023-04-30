@@ -1,32 +1,32 @@
 Terms and Conditions for using Go Social!
 
-Lastly updated on April 23, 2023 (7:08AM UTC+8)
+Lastly updated on April 30, 2023 (7:42 AM UTC+8)
 
  
 
 If you are using or about to use Go Social! you must agree to the following terms and conditions:
 
-•You can do whatever "ethical" in this platform. Never do unethical or bad things in this platform.
+•You can do whatever is "ethical" on this platform. Never do evil or bad things on this platform.
 
-•Please do not abuse this social media platform, in any form and in any kind.
+•Please do not abuse this social media platform, in any form and any kind.
 
-•Remember that you must respect every user in the platform, as we all deserve it.
+•Remember that you must respect every user on the platform, as we all deserve it.
 
 •Please follow all existing laws in your country while using this social media platform.
 
 •The Platform is "open" to anyone, so do not make any move to close or put a barrier into the platform to other existing or future users.
 
-•Do not cause any fight, bashing, harm or anything that will break peace in this platform.
+•Do not cause any fight, bashing, harm, or anything that will break peace on this platform.
 
-•Since this platform is open to all ages and persons, we are requesting every user in this platform to only post, comment and message contents appropriate for all ages.
+•Since this platform is open to all ages and persons, we are requesting every user on this platform to only post, comment, and message content appropriate for all ages.
 
-•Any private or public information of other users of the platform must not be used by the end-users (you) for his or her self-interest and other purposes without the permission of the owner. {Shared Provision on the Terms and Conditions and on the Privacy Terms}
-
- 
+•Any private or public information of other users of the platform must not be used by the end-users (you) for his or her self-interest and other purposes without the owner's permission. {Shared Provision on the Terms and Conditions and the Privacy Terms}
 
  
 
-Principles in using Go Social! ethically (Commandments of Compiter Ethics)
+ 
+
+Principles in using Go Social! ethically (Commandments of Computer Ethics)
 
 1) You shall not use a computer to harm other people.
 
@@ -50,9 +50,9 @@ Principles in using Go Social! ethically (Commandments of Compiter Ethics)
 
  
 
-If you are against or you have disagreed to this terms and conditions and the terms on privacy, please immediately delete your account by clicking the dropdown menu on the top right and press the Account Settings>Delete Account and tap that red Delete Account button, to leave this platform.
+If you are against or you have disagreed with these terms and conditions and the terms on privacy, please immediately delete your account by clicking the dropdown menu on the top right and pressing the Account Settings>Delete Account and tapping that red Delete Account button, to leave this platform.
 
-Violation of any of the following terms and conditions may prompt the administrator(s) of this social media platform to either impose sanction(s) on your account or may even cause deletion of your account.
+Violating any of the following terms and conditions may prompt the administrator(s) of this social media platform to either impose sanction(s) on your account or may even cause deletion of the account.
 
 For anything that requires contacting us, please email admin@gosocial.x10.bz.
 
