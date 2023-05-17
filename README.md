@@ -27,7 +27,7 @@ Version: April 30, 2023 (Latest)
 Status: Completely Uploaded
 
 ## Uptime Monitoring (UptimeRobot)
-URL: https://https://stats.uptimerobot.com/pWQV3u9RvN
+URL: https://stats.uptimerobot.com/pWQV3u9RvN
 <br>
 Status: Active (Working Properly)
 <br>
