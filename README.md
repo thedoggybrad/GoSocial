@@ -26,16 +26,15 @@ Version: April 30, 2023 (Latest)
 <br>
 Status: Completely Uploaded
 
-## Uptime Monitoring (Freshping)
-URL: https://statuspage.freshping.io/66143-GoSocialStatusMonitoring
+## Uptime Monitoring (UptimeRobot)
+URL: https://https://stats.uptimerobot.com/pWQV3u9RvN
 <br>
 Status: Active (Working Properly)
 <br>
-Monitoring Countries: 9 Countries
+Monitor: UptimeRobot
 <br>
 <br>
-Note: The website has been monitored acorss 9 countries, around the world. If the downtime is only experienced on 1 to 3 monitors then it is either a "Request Timeout" or either the monitoring server goes down temporarily. If all the monitors' status are down, then most likely Go Social! is down.
-
+Note: The website has been monitored across multiple ports and methods.
 ### About Go Social!
 Go Social! is a modern social media platform powered by the Open Source Social Network (OSSN). It was founded and became live to the public on April 3, 2023 (Monday). This platform aims to have an "open" social media platform.
 
