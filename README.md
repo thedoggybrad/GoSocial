@@ -15,9 +15,10 @@ Official Links:
 ## Source Files (GitHub)
 Directory: /source
 <br>
-Version: April 23, 2023 (Latest)
+Version: April 23, 2023 (Outdated)
 <br>
-Status: Completely Uploaded
+Status: Completely Outdated<br>
+Note: There will be no new versions to be uploaded, as the new versions contain personal information.
 
 ## Info Texts (GitHub)
 Directory: /texts
