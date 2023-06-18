@@ -18,7 +18,7 @@ Directory: /source
 Version: April 23, 2023 (Outdated)
 <br>
 Status: Completely Outdated<br>
-Note: There will be no new versions to be uploaded, as the new versions contain personal information.
+Note: There will be no new versions to be uploaded, as the new versions contain confidential personal information, it can be cleaned but I do not want to sacrifice the privacy of Go Social!'s users.
 
 ## Info Texts (GitHub)
 Directory: /texts
