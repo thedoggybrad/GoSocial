@@ -1,3 +1,6 @@
+## Repo Shutdown
+Go Social! is now based on WallStant (https://github.com/wallstant/wallstant), therefore this repo is now useless.
+
 # Go Social!
 This repository contains the source files, texts and more about Go Social!
 <br>
